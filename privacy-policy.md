@@ -30,5 +30,11 @@ The app does not collect information from anyone, including children.
 ## Changes to this policy
 If this policy changes, the updated version will appear in the app and on this page, with a new date.
 
-## Contact
-For any question about this policy, contact us using the support email shown on the AgeTally store page.
+## Developer and Grievance Officer
+Developer: Anor Group
+Developer email: anorgroupofficial@gmail.com
+
+Grievance Officer: Raushan Kumar
+Grievance Officer email: anorgroupofficial@gmail.com
+
+If you have a question or a complaint about this policy or about how the app handles information, please write to the email above. We will reply as soon as possible.
